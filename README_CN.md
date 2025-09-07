@@ -1,12 +1,14 @@
+<div align="center">
+
 # 企业 LLM/智能体选型参考手册 2025
 
-<div align="center">
-  <h3>企业级大语言模型和智能体选型专业指南</h3>
-  <p>
-    <a href="README_CN.md"><strong>中文版本</strong></a> | 
-    <a href="README.md">English Version</a>
-  </p>
-  <p><em>最后更新时间: 2025年9月2日</em></p>
+<h3>企业级大语言模型和智能体选型专业指南</h3>
+
+<p>
+  <a href="README.md">English Version</a>
+</p>
+<p><em>最后更新时间: 2025年9月2日</em></p>
+
 </div>
 
 ---
@@ -439,7 +441,6 @@
   <p><em>最后更新时间: 2025年9月2日</em></p>
   <p><strong>总计跟踪模型数: 98个生产级AI模型</strong></p>
   <p>
-    <a href="README_CN.md"><strong>中文版本</strong></a> | 
     <a href="README.md">English Version</a>
   </p>
 </div>

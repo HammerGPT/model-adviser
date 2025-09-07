@@ -1,12 +1,14 @@
+<div align="center">
+
 # Enterprise AI Model Selection Guide 2025
 
-<div align="center">
-  <h3>Professional Reference Manual for Enterprise LLM/Agent Selection</h3>
-  <p>
-    <a href="README_CN.md">中文版本</a> | 
-    <a href="README.md"><strong>English Version</strong></a>
-  </p>
-  <p><em>Last Updated: September 2, 2025</em></p>
+<h3>Professional Reference Manual for Enterprise LLM/Agent Selection</h3>
+
+<p>
+  <a href="README_CN.md">中文版本</a>
+</p>
+<p><em>Last Updated: September 2, 2025</em></p>
+
 </div>
 
 ---
@@ -319,7 +321,6 @@ Enterprise model selection typically focuses on five key dimensions:
   <p><em>Last Updated: September 2, 2025</em></p>
   <p><strong>Total Models Tracked: 98 Production-Ready AI Models</strong></p>
   <p>
-    <a href="README_CN.md">中文版本</a> | 
-    <a href="README.md"><strong>English Version</strong></a>
+    <a href="README_CN.md">中文版本</a>
   </p>
 </div>
